@@ -1,6 +1,6 @@
 build:
   version: 3.0
-accounts:
+loans:
   message: Welcome to Janebank loans related local APIs
   contactDetails:
     name: "Jane Doe - Developer"
