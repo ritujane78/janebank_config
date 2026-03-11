@@ -4,7 +4,7 @@ loans:
   message: Welcome to Janebank loans related local APIs
   contactDetails:
     name: "Jane Doe - Developer"
-    email: "jane@janebank.com"
+    email: "jane@janebank.io"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
