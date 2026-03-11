@@ -1,7 +1,7 @@
 build:
   version: 3.0
 accounts:
-  message: Welcomee toò Janebank accounts related local APIs
+  message: Welcomee to Janebank accounts related local APIs
   contactDetails:
     name: "Jane Doe - Developer"
     email: "jane@janebank.com"
